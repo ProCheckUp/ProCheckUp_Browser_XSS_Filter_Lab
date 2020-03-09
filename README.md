@@ -1,2 +1,2 @@
-# ProCheckUp_Browser_XSS_Filter_Lab
-ProCheckUp's browser XSS filter lab
+# ProCheckUp Browser XSS Filter Lab
+ProCheckUp's browser XSS filter lab for LINK
