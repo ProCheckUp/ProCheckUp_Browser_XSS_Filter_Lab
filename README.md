@@ -1,11 +1,11 @@
 # ProCheckUp Browser XSS Filter Lab
-ProCheckUp's browser XSS filter lab for blog post.
+ProCheckUp's browser XSS filter lab for [blog post](https://procheckup.com/blogs/posts/2020/march/dead-security-tech-browser-xss-filters/).
 
 ![App](https://github.com/ProCheckUp/ProCheckUp_Browser_XSS_Filter_Lab/blob/master/showcase_image.png)
 
 ### Setup
 ##### Release
-1. Download the release JAR here - [link to Release!](https://github.com/ProCheckUp/ProCheckUp_Browser_XSS_Filter_Lab/releases)
+1. Download the release JAR [here](https://github.com/ProCheckUp/ProCheckUp_Browser_XSS_Filter_Lab/releases)
 2. Either run the JAR or open a terminal and execute "java -jar local/path/ProCheckUpXSS-0.0.1.jar"
 3. Access 127.0.0.1:8080 in your browser
 
